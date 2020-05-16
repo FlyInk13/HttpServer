@@ -1,0 +1,25 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "simple http promise server",
+  "main": "HttpServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyInk13/HttpServer.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "promise",
+    "json"
+  ],
+  "author": "Flyink13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlyInk13/HttpServer/issues"
+  },
+  "homepage": "https://github.com/FlyInk13/HttpServer#readme"
+}
